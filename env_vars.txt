@@ -1,2 +1,4 @@
 HUMEAI_API_KEY = # get your key from https://dev.hume.ai/docs/introduction/api-key
 OPENAI_API_KEY = # get your key from https://platform.openai.com/docs/quickstart?context=python
+DISCORD_BOT_TOKEN
+TELEGRAM_BOT_TOKEN
